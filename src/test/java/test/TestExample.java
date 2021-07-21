@@ -15,6 +15,6 @@ public class TestExample {
         System.out.println(response.getBody().asString());
         System.out.println(response.getStatusLine());
         Assert.assertEquals(response.statusCode(),200);
-        System.out.println(response.getContentType());
+        
     }
 }
