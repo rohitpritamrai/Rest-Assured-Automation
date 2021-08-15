@@ -1,0 +1,5 @@
+demo/JsonSchemaValidator.class
+test/TestExample.class
+demo/GetAndPostExample.class
+demo/LocalAPITest.class
+demo/PutPatchDelete.class
